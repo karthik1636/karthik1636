@@ -1,0 +1,152 @@
+\documentclass[10pt, letterpaper]{article}
+\usepackage[
+    ignoreheadfoot,
+    top=1 cm,
+    bottom=1 cm,
+    left=1 cm,
+    right=1 cm,
+    footskip=1.0 cm,
+]{geometry}
+\usepackage{titlesec}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage[dvipsnames]{xcolor}
+\definecolor{primaryColor}{RGB}{0, 79, 144}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage[
+    pdftitle={Karthik Mettu - Entry-Level Data Analyst Resume},
+    pdfauthor={Karthik Mettu},
+    pdfcreator={LaTeX},
+    colorlinks=true,
+    urlcolor=primaryColor
+]{hyperref}
+\usepackage{eso-pic}
+\usepackage{calc}
+\usepackage{bookmark}
+\usepackage{lastpage}
+\usepackage{changepage}
+\usepackage{paracol}
+\usepackage{ifthen}
+\usepackage{needspace}
+\usepackage{iftex}
+
+\ifPDFTeX
+    \input{glyphtounicode}
+    \pdfgentounicode=1
+    \usepackage[utf8]{inputenc}
+    \usepackage{lmodern}
+\fi
+
+\pagestyle{empty}
+\setcounter{secnumdepth}{0}
+\setlength{\parindent}{0pt}
+\setlength{\topskip}{0pt}
+\setlength{\columnsep}{0cm}
+
+\titleformat{\section}{\needspace{4\baselineskip}\bfseries\large}{}{0pt}{}[\vspace{1pt}\titlerule]
+\titlespacing{\section}{-1pt}{0.3 cm}{0.2 cm}
+\renewcommand\labelitemi{$\circ$}
+\newenvironment{highlights}{\begin{itemize}[topsep=0.10 cm, parsep=0.10 cm, itemsep=0pt, leftmargin=0.6cm]}{\end{itemize}}
+\newenvironment{onecolentry}{\begin{adjustwidth}{0.2cm}{0.2cm}}{\end{adjustwidth}}
+\newenvironment{twocolentry}[2][]{\onecolentry\def\secondColumn{#2}\setcolumnwidth{\fill, 4.5 cm}\begin{paracol}{2}}{\switchcolumn \raggedleft \secondColumn\end{paracol}\endonecolentry}
+
+\begin{document}
+
+\begin{center}
+    \textbf{\fontsize{20}{24}\selectfont Karthik Mettu} \\[4pt]
+    Houston, TX \quad
+    \href{mailto:karthikr.mettu@gmail.com}{karthikr.mettu@gmail.com} \quad
+    (713) 202-0004 \quad
+    \href{https://www.linkedin.com/in/karthik-mettu/}{linkedin.com/in/karthik-mettu}
+\end{center}
+
+\section{Professional Summary}
+\begin{onecolentry}
+Data Analyst with hands-on experience delivering statistical and AI-driven solutions across public health, education, and NLP domains. Proven success in automating workflows, developing dashboards, and deploying machine learning models with 85\%–95\% accuracy. Strong background in hypothesis testing, regression modeling, and stakeholder collaboration. Passionate about transforming complex data into actionable insights that improve decision-making and operational efficiency.
+\end{onecolentry}
+
+\section{Skills}
+\begin{onecolentry}
+\textbf{Languages/Tools:} Python, SQL, MySQL, SAS, R, SPSS, Git, Tableau, Power BI \\
+\textbf{Frameworks/Libraries:} Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, Seaborn \\
+\textbf{Techniques:} Machine Learning, Statistical Modeling, A/B Testing, Regression Analysis, Time-Series Forecasting, Text Mining, NLP, Data Warehousing (BigQuery, AWS S3), Feature Engineering
+\end{onecolentry}
+
+\section{Education}
+\begin{twocolentry}{\textit{Aug 2023 – Dec 2024}}
+    \textbf{University of Houston} \\
+    M.S. in Statistics and Data Science \\
+    GPA: 3.74/4.0
+\end{twocolentry}
+
+\section{Experience}
+\begin{twocolentry}{\textit{Houston, TX} \\
+\textit{May 2024 – Present}}
+    \textbf{Data Analyst} \\
+    American Red Cross
+\end{twocolentry}
+\vspace{0.10 cm}
+\begin{onecolentry}
+\begin{highlights}
+\item Built an AI agent with Azure PromptFlow to automate 500+ monthly receipt analyses, saving 10 hours/week and reducing manual effort by 85\%, yielding \$10K monthly savings
+\item Designed and launched Tableau dashboards for disaster response KPIs, improving operational efficiency by 15\% and supporting cross-functional decision-making
+\item Collaborated with Disaster Action Teams and stakeholders to align data science initiatives with emergency response operations
+\end{highlights}
+\end{onecolentry}
+
+\vspace{0.2 cm}
+
+\begin{twocolentry}{\textit{Houston, TX} \\
+\textit{Aug 2023 – Dec 2024}}
+    \textbf{Instructional Assistant} \\
+    University of Houston
+\end{twocolentry}
+\vspace{0.10 cm}
+\begin{onecolentry}
+\begin{highlights}
+\item Facilitated 30+ sessions for 50+ graduate students on regression, hypothesis testing, Bayesian inference, and statistical computing using real-world datasets
+\item Led weekly Python-based labs covering data wrangling, visualization, and modeling using Pandas, NumPy, Matplotlib, and Scikit-learn
+\item Mentored students on applied data science skills, achieving 100\% course completion and 85\% student performance above 90\%
+\end{highlights}
+\end{onecolentry}
+
+\section{Projects}
+\begin{twocolentry}{\textit{Oct 2024 – Dec 2024}}
+    \textbf{Sentiment Classification with Transformer Models}
+\end{twocolentry}
+\vspace{0.10 cm}
+\begin{onecolentry}
+\begin{highlights}
+\item Built Bi-LSTM and Transformer models for classifying emotions in 1M+ Twitter posts; achieved 95\% accuracy in real-time sentiment detection
+\item Applied tokenization, sequence padding, and pipeline optimization with TensorFlow and PyTorch, reducing model training time by 40\%
+\end{highlights}
+\end{onecolentry}
+
+\vspace{0.2 cm}
+
+\begin{twocolentry}{\textit{Jan 2024 – Apr 2024}}
+    \textbf{Diabetes Risk Modeling and Prevention Strategies}
+\end{twocolentry}
+\vspace{0.10 cm}
+\begin{onecolentry}
+\begin{highlights}
+\item Developed predictive models using logistic regression and random forests to identify key diabetes risk factors with 85\% accuracy
+\item Highlighted hypertension and heart disease as major predictors, providing actionable insights for public health interventions
+\end{highlights}
+\end{onecolentry}
+
+\vspace{0.2 cm}
+
+\begin{twocolentry}{\textit{Oct 2023 – Dec 2023}}
+    \textbf{Suicide Rate Modeling Using Global Economic Indicators}
+\end{twocolentry}
+\vspace{0.10 cm}
+\begin{onecolentry}
+\begin{highlights}
+\item Performed multivariate regression on global suicide data; found 5.4\% suicide risk correlation with economic downturns ($R^2$ = 0.85)
+\item Applied ARIMA and Prophet for forecasting suicide trends to support mental health policy recommendations
+\end{highlights}
+\end{onecolentry}
+
+\end{document}
