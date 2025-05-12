@@ -33,7 +33,7 @@ I'm a graduate student in **Statistics and Data Science** at the University of H
 ### 📫 Let's connect:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/karthik-mettu/)
 - 📧 karthikr.mettu@gmail.com
-- 🧾 [Resume](https://karthik1636.github.io/Portfolio/)
+- 🧾 [Resume](https://github.com/karthik1636/karthik1636/blob/main/DS_Resume_Com.pdf)
 
 ---
 
