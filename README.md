@@ -1,7 +1,7 @@
 
 ![Typing Animation](https://readme-typing-svg.demolab.com/?lines=Karthik+Mettu+%7C+Data+Analyst+%7C+BI+Engineer+%7C+AI+NLP+Dev;&center=true&width=1000&height=45&color=00FF00&vCenter=true&size=20)
 
-![Matrix Banner](https://github.com/karthik1636/karthik1636/raw/main/matrix_banner.png)
+![Matrix Banner](https://github.com/karthik1636/karthik1636/raw/main/output (1).png)
 
 ```
 $ whoami
