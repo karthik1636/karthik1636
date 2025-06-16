@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Karthik Mettu | Matrix Profile</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: black;
+      color: #00ff00;
+      font-family: 'Courier New', Courier, monospace;
+      overflow: hidden;
+    }
+
+    canvas {
+      position: fixed;
+      top: 0;
+      left: 0;
+      z-index: -1;
+    }
+
+    .terminal {
+      padding: 40px;
+      white-space: pre-line;
+      font-size: 16px;
+    }
+
+    a {
+      color: #00ff00;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="matrix"></canvas>
+
+  <div class="terminal">
+    > whoami
+    👋 Karthik Mettu — Data Analyst | BI Engineer | ML Enthusiast
+
+    > stats
+    🎓 MS in Statistics & Data Science — University of Houston (GPA: 3.74)
+    🧠 Building: AI Agents | Dashboards | NLP Pipelines
+    📊 Currently @ American Red Cross — AI + BI Projects
+
+    > skills --list
+    Languages   : Python, SQL, R, MySQL
+    ML & AI     : Scikit-learn, TensorFlow, PyTorch, LLMs, NLP
+    Analytics   : Regression, A/B Testing, Time-Series, ETL
+    Tools/Cloud : Tableau, Power BI, Snowflake, AWS, Azure, BigQuery
+
+    > projects --recent
+    🧾 AI Receipt Agent         : ↓ 85% manual work, ~$10K saved/month
+    🧠 NLP Sentiment Classifier : Transformer-based, 95% Accuracy
+    💡 Diabetes Risk Model      : Logistic + Random Forest, 85% Accuracy
+    📊 Suicide Forecasting      : ARIMA + Multivariate Regression
+
+    > connect --links
+    🔗 LinkedIn : https://www.linkedin.com/in/karthik-mettu/
+    📧 Email    : karthikr.mettu@gmail.com
+    📄 Resume   : https://github.com/karthik1636/karthik1636/blob/main/DS_Resume_Com.pdf
+
+    > fun-fact
+    🌟 Helped 50+ students apply statistical thinking to real-world challenges
+  </div>
+
+  <script>
+    const canvas = document.getElementById("matrix");
+    const ctx = canvas.getContext("2d");
+
+    canvas.height = window.innerHeight;
+    canvas.width = window.innerWidth;
+
+    const matrixChars = "アァイィウヴエェオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモヤユヨラリルレロワヲンABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+    const fontSize = 14;
+    const columns = canvas.width / fontSize;
+    const drops = new Array(Math.floor(columns)).fill(1);
+
+    function drawMatrix() {
+      ctx.fillStyle = "rgba(0, 0, 0, 0.05)";
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+      ctx.fillStyle = "#0F0";
+      ctx.font = fontSize + "px monospace";
+
+      for (let i = 0; i < drops.length; i++) {
+        const char = matrixChars.charAt(Math.floor(Math.random() * matrixChars.length));
+        ctx.fillText(char, i * fontSize, drops[i] * fontSize);
+
+        if (drops[i] * fontSize > canvas.height && Math.random() > 0.975) {
+          drops[i] = 0;
+        }
+        drops[i]++;
+      }
+    }
+
+    setInterval(drawMatrix, 33);
+  </script>
+</body>
+</html>
