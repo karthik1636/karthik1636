@@ -1,4 +1,5 @@
 <div align="center">
+  
   <img src="https://readme-typing-svg.demolab.com/?lines=KARTHIK+METTU+%7C+DATA+ANALYST+%7C+BI+ENGINEER+%7C+AI+NLP+DEV;&center=true&width=1000&height=45&color=00FF00&vCenter=true&size=20&font=monospace&weight=bold" alt="Matrix Typing Animation" />
 </div>
 
