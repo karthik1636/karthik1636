@@ -1,103 +1,146 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=KARTHIK+METTU+%7C+DATA+ANALYST+%7C+BI+ENGINEER+%7C+AI+NLP+DEV;&center=true&width=1000&height=45&color=00FF00&vCenter=true&size=20&font=monospace&weight=bold" alt="Digital Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Karthik+Mettu+%7C+Data+Analyst+%7C+BI+Engineer+%7C+AI+Developer;&center=true&width=1000&height=45&color=58A6FF&vCenter=true&size=25&font=inter&weight=600" alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthik1636&show_icons=true&theme=dark&bg_color=000000&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=false&include_all_commits=true&count_private=true" alt="System Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik1636&theme=dark&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" alt="Activity Streak" />
+  <p><em>🎯 Data Science Professional | AI/ML Enthusiast | Business Intelligence Expert</em></p>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthik1636&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik1636&theme=dark&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=7d8590" alt="GitHub Streak" />
 </div>
 
 ---
 
-<div align="center">
-  <h2>🌐 <span style="color: #00FF00;">SYSTEM TERMINAL</span> 🌐</h2>
-</div>
+## 👨‍💻 About Me
 
-```bash
-$ whoami
-👋 Karthik Mettu — Data Analyst | BI Engineer | ML Enthusiast
+I'm a **Data Science professional** with expertise in **Machine Learning**, **Deep Learning**, and **Statistics**. Currently working at **American Red Cross** on AI and BI projects, I specialize in building intelligent solutions that drive business value.
 
-$ stats
-🎓 MS in Statistics & Data Science — University of Houston (GPA: 3.74)
-🧠 Building: AI Agents | Dashboards | NLP Pipelines
-📊 Currently @ American Red Cross — AI + BI Projects
+### 🎓 Education
+- **MS in Statistics & Data Science** - University of Houston (GPA: 3.74)
+- **Bachelor's Degree** - Statistics and Data Science
 
-$ skills --list
-Languages   : Python, SQL, R, MySQL
-ML & AI     : Scikit-learn, TensorFlow, PyTorch, LLMs, NLP
-Analytics   : Regression, A/B Testing, Time-Series, ETL
-Tools/Cloud : Tableau, Power BI, Snowflake, AWS, Azure, BigQuery
-
-$ projects --recent
-🧾 AI Receipt Agent         : ↓ 85% manual work, ~$10K saved/month
-🧠 NLP Sentiment Classifier : Transformer-based, 95% Accuracy
-💡 Diabetes Risk Model      : Logistic + Random Forest, 85% Accuracy
-📊 Suicide Forecasting      : ARIMA + Multivariate Regression
-
-$ connect --links
-🔗 LinkedIn : https://www.linkedin.com/in/karthik-mettu/
-📧 Email    : karthikr.mettu@gmail.com
-📄 Resume   : https://github.com/karthik1636/karthik1636/blob/main/DS_Resume_Com.pdf
-🌐 Live Site: https://karthik1636.github.io
-
-$ fun-fact
-🌟 Helped 50+ students apply statistical thinking to real-world challenges
-
-$ _
-```
+### 🏢 Current Role
+- **Data Analyst & BI Engineer** at American Red Cross
+- Focus: AI Agents, Dashboards, NLP Pipelines
 
 ---
 
-<div align="center">
-  <h2>🔮 <span style="color: #00FF00;">SKILLS MATRIX</span> 🔮</h2>
-</div>
+## 🛠️ Skills & Technologies
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,r,mysql,tableau,powerbi,snowflake,aws,azure,gcp,tensorflow,pytorch,scikit,git,github,vscode&theme=dark&perline=8" alt="Skills Matrix" />
-</div>
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### BI & Analytics
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ---
 
-<div align="center">
-  <h2>📊 <span style="color: #00FF00;">PROJECT SHOWCASE</span> 📊</h2>
-</div>
+## 🚀 Featured Projects
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="50%">
-      <h3>🧾 AI Receipt Agent</h3>
-      <p>↓ 85% manual work, ~$10K saved/month</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <td width="50%" valign="top">
+      <h3 align="center">🧾 AI Receipt Agent</h3>
+      <p align="center">
+        <strong>Impact:</strong> ↓ 85% manual work, ~$10K saved/month<br>
+        <strong>Tech:</strong> Python, OpenAI API, NLP<br>
+        <strong>Description:</strong> Automated receipt processing system using AI to extract and categorize expense data
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=natural-language-processing&logoColor=white" />
+      </p>
     </td>
-    <td align="center" width="50%">
-      <h3>🧠 NLP Sentiment Classifier</h3>
-      <p>Transformer-based, 95% Accuracy</p>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 NLP Sentiment Classifier</h3>
+      <p align="center">
+        <strong>Accuracy:</strong> 95%<br>
+        <strong>Tech:</strong> Transformer-based models<br>
+        <strong>Description:</strong> Advanced sentiment analysis using transformer architecture
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=white" />
+      </p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <h3>💡 Diabetes Risk Model</h3>
-      <p>Logistic + Random Forest, 85% Accuracy</p>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <td width="50%" valign="top">
+      <h3 align="center">💡 Diabetes Risk Model</h3>
+      <p align="center">
+        <strong>Accuracy:</strong> 85%<br>
+        <strong>Tech:</strong> Logistic Regression, Random Forest<br>
+        <strong>Description:</strong> Predictive model for diabetes risk assessment
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/ML-000000?style=for-the-badge&logo=machine-learning&logoColor=white" />
+      </p>
     </td>
-    <td align="center" width="50%">
-      <h3>📊 Suicide Forecasting</h3>
-      <p>ARIMA + Multivariate Regression</p>
-      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Suicide Forecasting</h3>
+      <p align="center">
+        <strong>Method:</strong> ARIMA + Multivariate Regression<br>
+        <strong>Tech:</strong> Time Series Analysis<br>
+        <strong>Description:</strong> Statistical modeling for suicide prevention research
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Statistics-000000?style=for-the-badge&logo=statistics&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
+## 📈 GitHub Activity
+
 <div align="center">
-  <h2>🌐 <span style="color: #00FF00;">CONNECTION PROTOCOLS</span> 🌐</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthik1636&theme=dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karthik1636&theme=dark&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🌟 Impact & Recognition
+
+- **Helped 50+ students** apply statistical thinking to real-world challenges
+- **Reduced manual processing by 85%** through AI automation
+- **Generated $10K+ monthly savings** through intelligent solutions
+- **Achieved 95% accuracy** in NLP sentiment classification
+
+---
+
+## 📞 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/karthik-mettu/">
@@ -117,45 +160,6 @@ $ _
 ---
 
 <div align="center">
-  <h2>🎯 <span style="color: #00FF00;">ACHIEVEMENTS</span> 🎯</h2>
+  <img src="https://komarev.com/ghpvc/?username=karthik1636&style=flat-square&color=58a6ff" alt="Profile Views" />
+  <p><em>Let's connect and build something amazing together! 🚀</em></p>
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthik1636&theme=dark&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
-<div align="center">
-  <h2>📈 <span style="color: #00FF00;">ACTIVITY GRAPH</span> 📈</h2>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthik1636&theme=dark&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-<div align="center">
-  <h2>🌟 <span style="color: #00FF00;">FUN FACT</span> 🌟</h2>
-  <p><strong>Helped 50+ students apply statistical thinking to real-world challenges</strong></p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=karthik1636&style=flat-square&color=00FF00" alt="Profile Views" />
-  <p><em>"Choose the red pill..."</em></p>
-</div>
-
-<!-- Matrix ASCII Art -->
-<div align="center">
-  <pre style="color: #00FF00; font-family: monospace; font-size: 10px; line-height: 1;">
-  ███╗   ███╗ █████╗ ████████╗██████╗ ██╗██╗  ██╗
-  ████╗ ████║██╔══██╗╚══██╔══╝██╔══██╗██║╚██╗██╔╝
-  ██╔████╔██║███████║   ██║   ██████╔╝██║ ╚███╔╝ 
-  ██║╚██╔╝██║██╔══██║   ██║   ██╔══██╗██║ ██╔██╗ 
-  ██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║██║██╔╝ ██╗
-  ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
-  </pre>
-</div> 
