@@ -115,6 +115,69 @@ I'm a **Data Science professional** with expertise in **Machine Learning**, **De
 
 ---
 
+## 📁 Portfolio Projects
+
+<div align="center">
+  <h3>🎯 Academic & Research Projects</h3>
+</div>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">🩺 Diabetes Prevention</h4>
+      <p align="center">
+        <strong>Type:</strong> Multivariate Analysis<br>
+        <strong>Tools:</strong> R, Python, Statistical Modeling<br>
+        <strong>Focus:</strong> Risk prediction and prevention strategies
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">📊 Multivariate Analysis</h4>
+      <p align="center">
+        <strong>Type:</strong> Statistical Analysis<br>
+        <strong>Tools:</strong> R, Statistical Packages<br>
+        <strong>Focus:</strong> Complex data relationships and patterns
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">😊 Sentiment Analysis</h4>
+      <p align="center">
+        <strong>Type:</strong> NLP Project<br>
+        <strong>Tools:</strong> Python, NLP Libraries<br>
+        <strong>Focus:</strong> Text analysis and sentiment classification
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">📈 Visualization Project</h4>
+      <p align="center">
+        <strong>Type:</strong> Data Visualization<br>
+        <strong>Tools:</strong> Tableau, Power BI, Python<br>
+        <strong>Focus:</strong> Interactive dashboards and insights
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">📋 Group7 Report</h4>
+      <p align="center">
+        <strong>Type:</strong> Diabetes Prediction<br>
+        <strong>Deliverables:</strong> PDF Report, PPT, Video<br>
+        <strong>Focus:</strong> Comprehensive analysis and presentation
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">💼 Internship Report</h4>
+      <p align="center">
+        <strong>Type:</strong> Professional Experience<br>
+        <strong>Documentation:</strong> Report_Intern.pdf<br>
+        <strong>Focus:</strong> Real-world application and learning
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📈 GitHub Activity
 
 <div align="center">
@@ -137,14 +200,16 @@ I'm a **Data Science professional** with expertise in **Machine Learning**, **De
 - **Reduced manual processing by 85%** through AI automation
 - **Generated $10K+ monthly savings** through intelligent solutions
 - **Achieved 95% accuracy** in NLP sentiment classification
+- **Completed comprehensive portfolio** with 6+ major projects
+- **Published academic reports** and presentations
 
 ---
 
 ## 📞 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/karthik-mettu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/karthik-mettu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Karthik_Mettu-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:karthikr.mettu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -157,9 +222,24 @@ I'm a **Data Science professional** with expertise in **Machine Learning**, **De
   </a>
 </div>
 
+<div align="center" style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/karthik-mettu/" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
+  </a>
+  <span style="margin: 0 10px;">•</span>
+  <a href="https://www.linkedin.com/in/karthik-mettu/" target="_blank">Connect with me on LinkedIn</a>
+</div>
+
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=karthik1636&style=flat-square&color=58a6ff" alt="Profile Views" />
   <p><em>Let's connect and build something amazing together! 🚀</em></p>
 </div>
+
+<!-- Open Graph Tags for Social Media -->
+<meta property="og:title" content="Karthik Mettu | Data Analyst & AI Engineer" />
+<meta property="og:description" content="BI | NLP | GenAI Developer | MS Stats & DS @ University of Houston" />
+<meta property="og:image" content="https://karthik1636.github.io/banner.png" />
+<meta property="og:url" content="https://karthik1636.github.io" />
+<meta name="twitter:card" content="summary_large_image" />
