@@ -130,6 +130,11 @@ I'm a **Data Science professional** with expertise in **Machine Learning**, **De
         <strong>Tools:</strong> R, Python, Statistical Modeling<br>
         <strong>Focus:</strong> Risk prediction and prevention strategies
       </p>
+      <p align="center">
+        <a href="https://github.com/karthik1636/Portfolio/tree/main/Diabetes%20Prevention">
+          <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
     </td>
     <td width="33%" valign="top">
       <h4 align="center">📊 Multivariate Analysis</h4>
@@ -138,6 +143,11 @@ I'm a **Data Science professional** with expertise in **Machine Learning**, **De
         <strong>Tools:</strong> R, Statistical Packages<br>
         <strong>Focus:</strong> Complex data relationships and patterns
       </p>
+      <p align="center">
+        <a href="https://github.com/karthik1636/Portfolio/tree/main/Multivariate%20Analysis">
+          <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
     </td>
     <td width="33%" valign="top">
       <h4 align="center">😊 Sentiment Analysis</h4>
@@ -145,6 +155,11 @@ I'm a **Data Science professional** with expertise in **Machine Learning**, **De
         <strong>Type:</strong> NLP Project<br>
         <strong>Tools:</strong> Python, NLP Libraries<br>
         <strong>Focus:</strong> Text analysis and sentiment classification
+      </p>
+      <p align="center">
+        <a href="https://github.com/karthik1636/Portfolio/tree/main/Sentiment%20Analysis">
+          <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </p>
     </td>
   </tr>
@@ -156,6 +171,11 @@ I'm a **Data Science professional** with expertise in **Machine Learning**, **De
         <strong>Tools:</strong> Tableau, Power BI, Python<br>
         <strong>Focus:</strong> Interactive dashboards and insights
       </p>
+      <p align="center">
+        <a href="https://github.com/karthik1636/Portfolio/tree/main/Visualization%20Project">
+          <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
     </td>
     <td width="33%" valign="top">
       <h4 align="center">📋 Group7 Report</h4>
@@ -164,6 +184,11 @@ I'm a **Data Science professional** with expertise in **Machine Learning**, **De
         <strong>Deliverables:</strong> PDF Report, PPT, Video<br>
         <strong>Focus:</strong> Comprehensive analysis and presentation
       </p>
+      <p align="center">
+        <a href="https://github.com/karthik1636/Portfolio/tree/main/Group7%20Report">
+          <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
     </td>
     <td width="33%" valign="top">
       <h4 align="center">💼 Internship Report</h4>
@@ -171,6 +196,11 @@ I'm a **Data Science professional** with expertise in **Machine Learning**, **De
         <strong>Type:</strong> Professional Experience<br>
         <strong>Documentation:</strong> Report_Intern.pdf<br>
         <strong>Focus:</strong> Real-world application and learning
+      </p>
+      <p align="center">
+        <a href="https://github.com/karthik1636/Portfolio/tree/main/Internship%20Report">
+          <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </p>
     </td>
   </tr>
