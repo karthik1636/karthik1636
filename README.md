@@ -239,7 +239,7 @@ I'm a **Data Science professional** with expertise in **Machine Learning**, **De
 
 <div align="center">
   <a href="https://www.linkedin.com/in/karthik-mettu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Karthik_Mettu-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Karthik_Mettu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:karthikr.mettu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -252,14 +252,6 @@ I'm a **Data Science professional** with expertise in **Machine Learning**, **De
   </a>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/karthik-mettu/" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
-  </a>
-  <span style="margin: 0 10px;">•</span>
-  <a href="https://www.linkedin.com/in/karthik-mettu/" target="_blank">Connect with me on LinkedIn</a>
-</div>
-
 ---
 
 <div align="center">
@@ -267,9 +259,3 @@ I'm a **Data Science professional** with expertise in **Machine Learning**, **De
   <p><em>Let's connect and build something amazing together! 🚀</em></p>
 </div>
 
-<!-- Open Graph Tags for Social Media -->
-<meta property="og:title" content="Karthik Mettu | Data Analyst & AI Engineer" />
-<meta property="og:description" content="BI | NLP | GenAI Developer | MS Stats & DS @ University of Houston" />
-<meta property="og:image" content="https://karthik1636.github.io/banner.png" />
-<meta property="og:url" content="https://karthik1636.github.io" />
-<meta name="twitter:card" content="summary_large_image" />
