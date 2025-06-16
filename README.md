@@ -19,19 +19,19 @@ $ whoami
 
 $ stats
 🎓 MS in Statistics & Data Science — University of Houston (GPA: 3.74)
-📍 Currently @ American Red Cross — AI + BI Projects
-🤖 AI, Automation, NLP, BI Dashboards
+🧠 Building: AI Agents | Dashboards | NLP Pipelines
+📊 Currently @ American Red Cross — AI + BI Projects
 
 $ skills --list
-🧠 Languages   : Python, SQL, R, MySQL
-📊 Tools       : Tableau, Power BI, Snowflake, Azure PromptFlow, AWS, BigQuery
-🧠 ML/AI       : Scikit-learn, TensorFlow, PyTorch, LLMs, NLP
-🧪 Analytics   : A/B Testing, Regression, Time-Series, ETL
+Languages   : Python, SQL, R, MySQL
+ML & AI     : Scikit-learn, TensorFlow, PyTorch, LLMs, NLP
+Analytics   : Regression, A/B Testing, Time-Series, ETL
+Tools/Cloud : Tableau, Power BI, Snowflake, AWS, Azure, BigQuery
 
 $ projects --recent
 🧾 AI Receipt Agent         : ↓ 85% manual work, ~$10K saved/month
 🧠 NLP Sentiment Classifier : Transformer-based, 95% Accuracy
-💡 Diabetes Risk Predictor  : Logistic + Random Forest, 85% Accuracy
+💡 Diabetes Risk Model      : Logistic + Random Forest, 85% Accuracy
 📊 Suicide Forecasting      : ARIMA + Multivariate Regression
 
 $ connect --links
@@ -41,7 +41,7 @@ $ connect --links
 🌐 Live Site: https://karthik1636.github.io
 
 $ fun-fact
-🌟 Helped 50+ students apply statistical thinking to real-world problems
+🌟 Helped 50+ students apply statistical thinking to real-world challenges
 
 $ _
 ```
@@ -79,7 +79,7 @@ $ _
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>💡 Diabetes Risk Predictor</h3>
+      <h3>💡 Diabetes Risk Model</h3>
       <p>Logistic + Random Forest, 85% Accuracy</p>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -138,7 +138,7 @@ $ _
 
 <div align="center">
   <h2>🌟 <span style="color: #00FF00;">FUN FACT</span> 🌟</h2>
-  <p><strong>Helped 50+ students apply statistical thinking to real-world problems</strong></p>
+  <p><strong>Helped 50+ students apply statistical thinking to real-world challenges</strong></p>
 </div>
 
 ---
@@ -148,7 +148,7 @@ $ _
   <p><em>"Choose the red pill..."</em></p>
 </div>
 
-<!-- Matrix-style ASCII Art -->
+<!-- Matrix ASCII Art -->
 <div align="center">
   <pre style="color: #00FF00; font-family: monospace; font-size: 10px; line-height: 1;">
   ███╗   ███╗ █████╗ ████████╗██████╗ ██╗██╗  ██╗
