@@ -19,11 +19,8 @@ I'm a **Data Science professional** with expertise in **Machine Learning**, **De
 
 ### 🎓 Education
 - **MS in Statistics & Data Science** - University of Houston (GPA: 3.74)
-- **Bachelor's Degree** - Statistics and Data Science
 
-### 🏢 Current Role
-- **Data Analyst & BI Engineer** at American Red Cross
-- Focus: AI Agents, Dashboards, NLP Pipelines
+
 
 ---
 
