@@ -1,258 +1,84 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Karthik+Mettu+%7C+Data+Analyst+%7C+BI+Engineer+%7C+AI+Developer;&center=true&width=1000&height=45&color=58A6FF&vCenter=true&size=25&font=inter&weight=600" alt="Typing Animation" />
-</div>
+# Karthik Mettu
 
-<div align="center">
-  <p><em>🎯 Data Science Professional | AI/ML Enthusiast | Business Intelligence Expert</em></p>
-</div>
+**Data Scientist** | ML Systems, Generative AI, NLP, Forecasting at Scale
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthik1636&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik1636&theme=dark&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=7d8590" alt="GitHub Streak" />
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Data Science professional** with expertise in **Machine Learning**, **Deep Learning**, and **Statistics**. Currently working at **American Red Cross** on AI and BI projects, I specialize in building intelligent solutions that drive business value.
-
-### 🎓 Education
-- **MS in Statistics & Data Science** - University of Houston (GPA: 3.74)
-
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 
 ---
 
-## 🛠️ Skills & Technologies
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### BI & Analytics
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+MS in Statistics & Data Science from the University of Houston (3.74 GPA). I build production ML systems that deliver measurable business outcomes -- from real-time fraud scoring to demand forecasting across 60K+ SKUs.
 
 ---
 
-## 🚀 Featured Projects
+## Professional Experience
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧾 AI Receipt Agent</h3>
-      <p align="center">
-        <strong>Impact:</strong> ↓ 85% manual work, ~$10K saved/month<br>
-        <strong>Tech:</strong> Python, OpenAI API, NLP<br>
-        <strong>Description:</strong> Automated receipt processing system using AI to extract and categorize expense data
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=natural-language-processing&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 NLP Sentiment Classifier</h3>
-      <p align="center">
-        <strong>Accuracy:</strong> 95%<br>
-        <strong>Tech:</strong> Transformer-based models<br>
-        <strong>Description:</strong> Advanced sentiment analysis using transformer architecture
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💡 Diabetes Risk Model</h3>
-      <p align="center">
-        <strong>Accuracy:</strong> 85%<br>
-        <strong>Tech:</strong> Logistic Regression, Random Forest<br>
-        <strong>Description:</strong> Predictive model for diabetes risk assessment
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/ML-000000?style=for-the-badge&logo=machine-learning&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 Suicide Forecasting</h3>
-      <p align="center">
-        <strong>Method:</strong> ARIMA + Multivariate Regression<br>
-        <strong>Tech:</strong> Time Series Analysis<br>
-        <strong>Description:</strong> Statistical modeling for suicide prevention research
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Statistics-000000?style=for-the-badge&logo=statistics&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+### PayPal -- Data Scientist (Fraud Detection & Generative AI)
+
+Built fraud detection and Gen AI explainability systems processing millions of transactions/day.
+
+- Improved **fraud recall by 12--18%** through feature engineering (transaction velocity, device behavior, merchant risk) and threshold optimization -- zero increase in false positives
+- Designed a **Generative AI fraud explanation system** using AWS Bedrock (GPT-style LLMs) with structured prompt-engineering pipelines grounded in verified model outputs
+- Reduced fraud analyst **clarification requests by 22%** and **investigation time by 25--35%** through human-readable LLM explanations
+- Built a low-latency **explainability data layer on Snowflake** (materialized views, partitioned tables) meeting millisecond-level SLAs
+- Implemented **hallucination-control metrics via MLflow**; reduced misleading explanations by 30% through A/B testing
+- Deployed on **AWS Lambda + API Gateway** for near real-time inference at scale
+
+### Accenture -- Data Scientist (Demand Forecasting & Supply Chain)
+
+End-to-end demand forecasting for a global retail client: 60,000+ SKUs, 1,200+ stores.
+
+- Improved **forecast accuracy by 23%** over legacy rule-based system using hybrid ARIMA/SARIMA/Prophet + CatBoost models
+- Reduced **peak-season forecast errors by 27%** with probabilistic boosting for high-volatility SKUs
+- Designed **hierarchical forecasting** (SKU -> store -> region), improving regional accuracy by 19%
+- Built automated **ETL pipelines** (Python, SQL, Apache Airflow) processing 100M+ records/day
+- Implemented **anomaly detection** (Isolation Forest, z-score, control charts) reducing forecast failures by 34%
+- Deployed models via **Docker + FastAPI**; built **Tableau dashboards** for leadership KPI tracking
+
+### American Red Cross -- Data Scientist / BI Analyst
+
+AI and business intelligence projects supporting humanitarian operations.
 
 ---
 
-## 📁 Portfolio Projects
+## Featured Projects
 
-<div align="center">
-  <h3>🎯 Academic & Research Projects</h3>
-</div>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">🩺 Diabetes Prevention</h4>
-      <p align="center">
-        <strong>Type:</strong> Multivariate Analysis<br>
-        <strong>Tools:</strong> R, Python, Statistical Modeling<br>
-        <strong>Focus:</strong> Risk prediction and prevention strategies
-      </p>
-      <p align="center">
-        <a href="https://github.com/karthik1636/Portfolio/tree/main/Diabetes%20Prevention">
-          <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">📊 Multivariate Analysis</h4>
-      <p align="center">
-        <strong>Type:</strong> Statistical Analysis<br>
-        <strong>Tools:</strong> R, Statistical Packages<br>
-        <strong>Focus:</strong> Complex data relationships and patterns
-      </p>
-      <p align="center">
-        <a href="https://github.com/karthik1636/Portfolio/tree/main/Multivariate%20Analysis">
-          <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">😊 Sentiment Analysis</h4>
-      <p align="center">
-        <strong>Type:</strong> NLP Project<br>
-        <strong>Tools:</strong> Python, NLP Libraries<br>
-        <strong>Focus:</strong> Text analysis and sentiment classification
-      </p>
-      <p align="center">
-        <a href="https://github.com/karthik1636/Portfolio/tree/main/Sentiment%20Analysis">
-          <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">📈 Visualization Project</h4>
-      <p align="center">
-        <strong>Type:</strong> Data Visualization<br>
-        <strong>Tools:</strong> Tableau, Power BI, Python<br>
-        <strong>Focus:</strong> Interactive dashboards and insights
-      </p>
-      <p align="center">
-        <a href="https://github.com/karthik1636/Portfolio/tree/main/Visualization%20Project">
-          <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">📋 Group7 Report</h4>
-      <p align="center">
-        <strong>Type:</strong> Diabetes Prediction<br>
-        <strong>Deliverables:</strong> PDF Report, PPT, Video<br>
-        <strong>Focus:</strong> Comprehensive analysis and presentation
-      </p>
-      <p align="center">
-        <a href="https://github.com/karthik1636/Portfolio/tree/main/Group7%20Report">
-          <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">💼 Internship Report</h4>
-      <p align="center">
-        <strong>Type:</strong> Professional Experience<br>
-        <strong>Documentation:</strong> Report_Intern.pdf<br>
-        <strong>Focus:</strong> Real-world application and learning
-      </p>
-      <p align="center">
-        <a href="https://github.com/karthik1636/Portfolio/tree/main/Internship%20Report">
-          <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [**audiobook-pipeline**](https://github.com/karthik1636/audiobook-pipeline) | PDF to emotionally narrated audiobook -- 4-stage NLP+TTS pipeline with sentence-level emotion classification and Karpathy-style autoresearch optimization | Python, PyTorch, Kokoro-82M, Ollama, Streamlit |
+| [**movie-recommender-system**](https://github.com/karthik1636/movie-recommender-system) | Content-based + collaborative filtering recommendation engine with interactive web interface | Python, scikit-learn, Streamlit |
+| [**Sentiment Analysis**](https://github.com/karthik1636/Portfolio/tree/main/Projects/Sentiment%20Analysis) | NLP sentiment classifier using transformer-based models (95% accuracy) | Python, NLP, Transformers |
+| [**Diabetes Prevention**](https://github.com/karthik1636/Portfolio/tree/main/Projects/Diabetes%20Prevention) | Predictive model for diabetes risk assessment using logistic regression and random forest (85% accuracy) | Python, R, scikit-learn |
+| [**Multivariate Analysis**](https://github.com/karthik1636/Portfolio/tree/main/Projects/Multivariate%20Analysis) | Statistical modeling of complex data relationships and pattern detection | R, Statistical Packages |
+| [**Visualization Project**](https://github.com/karthik1636/Portfolio/tree/main/Projects/Visualization%20Project) | Interactive dashboards and data storytelling for business insights | Tableau, Power BI, Python |
 
 ---
 
-## 📈 GitHub Activity
+## Technical Skills
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthik1636&theme=dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthik1636&theme=dark&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
-</div>
+**Languages:** Python, SQL, R  
+**ML/AI:** PyTorch, TensorFlow, scikit-learn, CatBoost, XGBoost, Hugging Face Transformers, LLMs (GPT, Bedrock), NLP, Prompt Engineering  
+**Data Engineering:** Snowflake, BigQuery, Apache Airflow, ETL Pipelines, FastAPI, Docker  
+**Cloud:** AWS (Lambda, API Gateway, Bedrock, S3), Azure  
+**Monitoring & MLOps:** MLflow, A/B Testing, Model Drift Detection, Isolation Forest  
+**Visualization:** Tableau, Power BI, Streamlit, Matplotlib  
+**Statistical Methods:** Time Series (ARIMA, SARIMA, Prophet), Hypothesis Testing, Regression, PCA, Bayesian Methods
 
 ---
 
-## 🌟 Impact & Recognition
+## Education
 
-- **Helped 50+ students** apply statistical thinking to real-world challenges
-- **Reduced manual processing by 85%** through AI automation
-- **Generated $10K+ monthly savings** through intelligent solutions
-- **Achieved 95% accuracy** in NLP sentiment classification
-- **Completed comprehensive portfolio** with 6+ major projects
-- **Published academic reports** and presentations
+**MS in Statistics & Data Science** -- University of Houston (GPA: 3.74)
 
 ---
 
-## 📞 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/karthik-mettu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Karthik_Mettu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="mailto:karthikr.mettu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/karthik1636/karthik1636/blob/main/DS_Resume_Com.pdf">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
-  </a>
-  <a href="https://karthik1636.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=karthik1636&style=flat-square&color=58a6ff" alt="Profile Views" />
-  <p><em>Let's connect and build something amazing together! 🚀</em></p>
-</div>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik_Mettu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-mettu/)
+[![Email](https://img.shields.io/badge/Email-karthikmettu16@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:karthikmettu16@gmail.com)
