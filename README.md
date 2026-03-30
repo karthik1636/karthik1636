@@ -80,5 +80,6 @@ AI and business intelligence projects supporting humanitarian operations.
 
 ---
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-karthik1636.github.io-0af?style=flat&logo=github-pages&logoColor=white)](https://karthik1636.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik_Mettu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-mettu/)
 [![Email](https://img.shields.io/badge/Email-karthikmettu16@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:karthikmettu16@gmail.com)
