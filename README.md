@@ -43,10 +43,6 @@ End-to-end demand forecasting for a global retail client: 60,000+ SKUs, 1,200+ s
 - Implemented **anomaly detection** (Isolation Forest, z-score, control charts) reducing forecast failures by 34%
 - Deployed models via **Docker + FastAPI**; built **Tableau dashboards** for leadership KPI tracking
 
-### American Red Cross -- Data Scientist / BI Analyst
-
-AI and business intelligence projects supporting humanitarian operations.
-
 ---
 
 ## Featured Projects
@@ -82,4 +78,4 @@ AI and business intelligence projects supporting humanitarian operations.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-karthik1636.github.io-0af?style=flat&logo=github-pages&logoColor=white)](https://karthik1636.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik_Mettu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-mettu/)
-[![Email](https://img.shields.io/badge/Email-karthikmettu16@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:karthikmettu16@gmail.com)
+[![Email](https://img.shields.io/badge/Email-karthikrm202002@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:karthikrm202002@gmail.com)
